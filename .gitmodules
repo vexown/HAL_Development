@@ -1,0 +1,3 @@
+[submodule "DS1307_PicoLib"]
+	path = DS1307_PicoLib
+	url = https://github.com/vexown/LibDev
